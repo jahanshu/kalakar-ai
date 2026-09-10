@@ -275,9 +275,6 @@ export const AddNewProductWizard: React.FC<AddNewProductWizardProps> = ({
           <span className="text-xs font-bold uppercase tracking-wider text-[#8E4E14]">
             {t.quickPresets}
           </span>
-          <span className="text-[11px] text-[#765A05] hidden sm:inline">
-            (1-Tap Demo for Hackathon Judges)
-          </span>
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5">
           {QUICK_SAMPLES.map((sample) => (
