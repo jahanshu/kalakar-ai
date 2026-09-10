@@ -1,6 +1,0 @@
-{
-  "name": "Kalaकार AI",
-  "description": "AI catalog and listing generator for artisans: turns craft photos and spoken voice notes into market-ready listings.",
-  "requestFramePermissions": ["camera", "microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
