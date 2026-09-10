@@ -6,7 +6,7 @@ Kalaakar AI is an AI-powered digital commerce assistant designed to help Indian 
 
 The platform allows an artisan to provide a **photo and voice description** of their product and converts it into a market-ready digital listing with multilingual content, AI-powered visuals, pricing assistance, and buyer matching.
 
-[![Live Web App](https://img.shields.io/badge/Live%20App-Kalakar.vercel.app-B5502E.svg?style=for-the-badge&logo=vercel)](https://kala-kar-ai.vercel.app/)
+[![Live Web App](https://img.shields.io/badge/Live%20App-Kalakar.vercel.app-B5502E.svg?style=for-the-badge&logo=vercel)](https://kalakar-ai.vercel.app/)
 
 ---
 
